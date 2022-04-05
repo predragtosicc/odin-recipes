@@ -1,0 +1,16 @@
+body {
+    background-color: darkcyan;
+}
+
+h1 {
+    color: lightsalmon;
+    text-align: center;
+    font-size: 100px;
+}
+
+.links {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+}
